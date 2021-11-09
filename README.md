@@ -20,3 +20,9 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 * _EmpoWord: A Student-Centered Anthology & Handbook for College Writers_ - Wrote and edited sections of this etextbook for accessibility and ease of learning complex rhetorical and writing concepts. The text is freely accessible through [PDXScholar](https://pdxscholar.library.pdx.edu/pdxopen/20/).
 * Untitled Fiction Manuscripts - Conceptual and style editorial consultation on two untitled fiction manuscripts for local writers.
+
+### Published Work
+
+* ["Dual Solitude"](http://www.propellermag.com/Sept2016/BrooksDaltonDannemillerSept16.html) - Interview with Lily Brooks-Dalton on her novel _Good Morning, Midnight_ for Propeller Mag
+* ["Can't Look Away"](http://portlandreview.org/review-of-kevin-sampsells-this-is-between-us/) - Book review of Kevin Sampsell's _This is Between Us_ for _Portland Review_
+* ["That Sweetness"](http://www.literaryorphans.org/playdb/sweetness-alex-dannemiller/) - Flash fiction published on Literary Orphans.
