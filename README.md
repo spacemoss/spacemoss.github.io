@@ -1,4 +1,4 @@
-See the [About]({{ site.baseurl }}/about/) page for a bio and background.
+See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Live Websites
 
