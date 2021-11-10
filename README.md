@@ -7,8 +7,9 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Past Web Designs
 
-* Portland Review - Graduate student run journal out of Portland State University.
-* Quarter After Eight - Graduate student journal from Ohio University's MA and PhD creative writing programs.
+* [Portland Review Redesign Mockup]({{ site.baseurl }}/websites/prmock/PRMockup.png)
+* [Portland Review 2013 - 2015 on Archive.org](https://web.archive.org/web/20160109185843/http://portlandreview.org/) - Graduate student run journal out of Portland State University.
+* [Quarter After Eight 2012 - 2014 on Archive.org](https://web.archive.org/web/20130526152815/http://www.quarteraftereight.org/index.html) - Graduate student journal from Ohio University's MA and PhD creative writing programs.
 
 ### Freelance Editorial Work
 
