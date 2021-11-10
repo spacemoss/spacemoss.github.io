@@ -33,7 +33,7 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 * [Portland Review Redesign Mockup]({{ site.baseurl }}/websites/prmock/PRMockup.png) - For a 2015 redesign.
 * [Portland Review 2013 - 2015 on Archive.org](https://web.archive.org/web/20160109185843/http://portlandreview.org/) - Graduate student run journal out of Portland State University.
-* [Quarter After Eight 2012 - 2014 on Archive.org](https://web.archive.org/web/20130526152815/http://www.quarteraftereight.org/index.html) - Graduate student journal from Ohio University's MA and PhD creative writing programs.
+* [Quarter After Eight 2012 - 2013 on Archive.org](https://web.archive.org/web/20130526152815/http://www.quarteraftereight.org/index.html) - Graduate student journal from Ohio University's MA and PhD creative writing programs.
 * [Aquaduck]({{ site.baseurl }}/websites/aquaduck/) - An literary journal I created with friends during my undergraduate studies at Miami University in 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/aquaduck/)
 * [Writers Bloc]( {{ site.baseurl }}/websites/writersbloc/) - A workshop and writing group, which I was also part of during my time at MU in 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/writersbloc/)
 
