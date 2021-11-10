@@ -1,9 +1,33 @@
 See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
-### Live Websites
+### Code Projects
+
+* [Unity 2D and C#]({{ site.baseurl }}/unity2dc#) - Sample repository of C# for a 2D game developed in Unity.
+* [Python]({{ site.baseurl }}/python-microsoft-learn) - Progress in learning Python through Microsoft Learn's Python modules.
+
+### Current Web Projects
 
 * [Literary Portland](https://literaryportland.org) - A resource for the literary community in Portland, OR.
 * [Old Pal](https://oldpalmag.com) - An online literary journal of poetry, prose, and art.
+
+### Book Cover Designs
+
+* [_1984_ by George Orwell]({{ site.baseurl }}/images/bookcovers/1984_-_George_Orwell.png) - A mockup design of the literary classic.
+* [Sacagawea Biography]({{ site.baseurl }}/images/bookcovers/SacagaweaCover.jpg) - Designed for a Book Publishing course at PSU. This was based on a student concept for a biography on Sacagawea.
+* [Whale Memoir]({{ site.baseurl }}/images/bookcovers/WhaleCover.jpg) - For the same Book Publishing class, this book was a student concept for a memoir about witnessing a beached whale event on the Oregon coast.
+
+### Interior Designs
+
+* [_Portland Review_ Spring 2015 Issue]({{ site.baseurl }}/interiordesigns/prspring2015) - Sample pages from interior design of _Portland Review_'s Spring 2015 issue.
+
+### Graphic Designs
+
+* [Literary Portland Ads and Fliers]({{ site.baseurl }}/images/graphics/literaryportland)
+* [_Old Pal_ Excerpts, Ads, and Fliers]({{ site.baseurl }}/images/graphics/oldpal)
+* [_Portland Review_ Fliers and Event Images]({{ site.baseurl }}/images/graphics/portlandreview)
+* [SWAMP Logo and Website Header]({{ site.baseurl }}/images/graphics/swamp)
+* [Slake House Logo Designs]({{ site.baseurl }}/images/graphics/slakehouse)
+* [Blender Renders]({{ site.baseurl }}/images/graphics/blenderrenders)
 
 ### Past Web Designs
 
@@ -21,9 +45,3 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 * ["Dual Solitude"](http://www.propellermag.com/Sept2016/BrooksDaltonDannemillerSept16.html) - Interview with Lily Brooks-Dalton on her novel _Good Morning, Midnight_ for Propeller Mag
 * ["Can't Look Away"](http://portlandreview.org/review-of-kevin-sampsells-this-is-between-us/) - Book review of Kevin Sampsell's _This is Between Us_ for _Portland Review_
 * ["That Sweetness"](http://www.literaryorphans.org/playdb/sweetness-alex-dannemiller/) - Flash fiction published on Literary Orphans.
-
-### Book Cover Designs
-
-### Interior Designs
-
-### Code Projects
