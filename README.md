@@ -2,7 +2,7 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Code Projects
 
-* [Unity 2D and C#]({{ site.baseurl }}/codesamples/unity2dc#/) - Sample repository of C# for a 2D game developed in Unity.
+* [Unity 2D and C#](https://github.com/spacemoss/spacemoss.github.io/tree/main/codesamples/unity2dc%23) - Sample repository of C# for a 2D game developed in Unity.
 * [Python](https://github.com/spacemoss/spacemoss.github.io/tree/main/codesamples/python-microsoft-learn) - Progress in learning Python through Microsoft Learn's Python modules.
 
 ### Current Web Projects
@@ -12,22 +12,22 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Book Cover Designs
 
-* [_1984_ by George Orwell]({{ site.baseurl }}/images/bookcovers/1984 - George Orwell.png) - A mockup design of the literary classic.
+* [_1984_ by George Orwell]({{ site.baseurl }}/images/bookcovers/1984GeorgeOrwell.jpg) - A mockup design of the literary classic.
 * [Sacagawea Biography]({{ site.baseurl }}/images/bookcovers/SacagaweaCover.jpg) - Designed for a Book Publishing course at PSU. This was based on a student concept for a biography on Sacagawea.
 * [Whale Memoir]({{ site.baseurl }}/images/bookcovers/WhaleCover.jpg) - For the same Book Publishing class, this book was a student concept for a memoir about witnessing a beached whale event on the Oregon coast.
 
 ### Interior Designs
 
-* [_Portland Review_ Spring 2015 Issue]({{ site.baseurl }}/interiordesigns/prspring2015) - Sample pages from interior design of _Portland Review_'s Spring 2015 issue.
+* [_Portland Review_ Spring 2015 Issue](https://github.com/spacemoss/spacemoss.github.io/tree/main/interiordesigns/prspring2015/) - Sample pages from interior design of _Portland Review_'s Spring 2015 issue.
 
 ### Graphic Designs
 
-* [Literary Portland Ads and Fliers]({{ site.baseurl }}/images/graphics/literaryportland)
-* [_Old Pal_ Excerpts, Ads, and Fliers]({{ site.baseurl }}/images/graphics/oldpal)
-* [_Portland Review_ Fliers and Event Images]({{ site.baseurl }}/images/graphics/portlandreview)
-* [SWAMP Logo and Website Header]({{ site.baseurl }}/images/graphics/swamp)
-* [Slake House Logo Designs]({{ site.baseurl }}/images/graphics/slakehouse)
-* [Blender Renders]({{ site.baseurl }}/images/graphics/blenderrenders)
+* [Literary Portland Ads and Fliers](https://github.com/spacemoss/spacemoss.github.io/tree/main/images/graphics/literaryportland/)
+* [_Old Pal_ Excerpts, Ads, and Fliers](https://github.com/spacemoss/spacemoss.github.io/tree/main/images/graphics/oldpal/)
+* [_Portland Review_ Fliers and Event Images](https://github.com/spacemoss/spacemoss.github.io/tree/main/images/graphics/portlandreview/)
+* [SWAMP Logo and Website Header](https://github.com/spacemoss/spacemoss.github.io/tree/main/images/graphics/swamp/)
+* [Slake House Logo Designs](https://github.com/spacemoss/spacemoss.github.io/tree/main/images/graphics/slakehouse/)
+* [Blender Renders](https://github.com/spacemoss/spacemoss.github.io/tree/main/images/graphics/blenderrenders/)
 
 ### Past Web Designs
 
