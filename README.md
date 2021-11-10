@@ -12,13 +12,13 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Book Cover Designs
 
-* [_1984_ by George Orwell]({{ site.baseurl }}/images/bookcovers/1984GeorgeOrwell.jpg) - A mockup design of the literary classic.
-* [Sacagawea Biography]({{ site.baseurl }}/images/bookcovers/SacagaweaCover.jpg) - Designed for a Book Publishing course at PSU. This was based on a student concept for a biography on Sacagawea.
-* [Whale Memoir]({{ site.baseurl }}/images/bookcovers/WhaleCover.jpg) - For the same Book Publishing class, this book was a student concept for a memoir about witnessing a beached whale event on the Oregon coast.
+* [_1984_ by George Orwell]({{ site.baseurl }}/images/bookcovers/1984GeorgeOrwell.jpg) - A mockup design of the literary classic. Made in Affinity Designer.
+* [Sacagawea Biography]({{ site.baseurl }}/images/bookcovers/SacagaweaCover.jpg) - Designed for a Book Publishing course at PSU. This was based on a student concept for a biography on Sacagawea. Made in Photoshop.
+* [Whale Memoir]({{ site.baseurl }}/images/bookcovers/WhaleCover.jpg) - For the same Book Publishing class, this book was a student concept for a memoir about witnessing a beached whale event on the Oregon coast. Made in Photoshop.
 
 ### Interior Designs
 
-* [_Portland Review_ Spring 2015 Issue](https://github.com/spacemoss/spacemoss.github.io/tree/main/interiordesigns/prspring2015/) - Sample pages from interior design of _Portland Review_'s Spring 2015 issue.
+* [_Portland Review_ Spring 2015 Issue](https://github.com/spacemoss/spacemoss.github.io/tree/main/interiordesigns/prspring2015/) - Sample pages from interior design of _Portland Review_'s Spring 2015 issue. Designed with InDesign.
 
 ### Graphic Designs
 
@@ -31,11 +31,11 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Past Web Designs
 
-* [Portland Review Redesign Mockup]({{ site.baseurl }}/websites/prmock/PRMockup.png)
+* [Portland Review Redesign Mockup]({{ site.baseurl }}/websites/prmock/PRMockup.png) - For a 2015 redesign.
 * [Portland Review 2013 - 2015 on Archive.org](https://web.archive.org/web/20160109185843/http://portlandreview.org/) - Graduate student run journal out of Portland State University.
 * [Quarter After Eight 2012 - 2014 on Archive.org](https://web.archive.org/web/20130526152815/http://www.quarteraftereight.org/index.html) - Graduate student journal from Ohio University's MA and PhD creative writing programs.
 * [Aquaduck]({{ site.baseurl }}/websites/aquaduck/) - An literary journal I created with friends during my undergraduate studies at Miami University in 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/aquaduck/)
-* [Writers Bloc]( {{ site.baseurl }}/websites/writersbloc/) - A workshop and writing group, which I was also part of during my time at MU in 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/aquaduck/)
+* [Writers Bloc]( {{ site.baseurl }}/websites/writersbloc/) - A workshop and writing group, which I was also part of during my time at MU in 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/writersbloc/)
 
 ### Freelance Editorial Work
 
