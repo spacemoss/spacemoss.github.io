@@ -2,8 +2,8 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Code Projects
 
-* [Unity 2D and C#]({{ site.baseurl }}/unity2dc#) - Sample repository of C# for a 2D game developed in Unity.
-* [Python]({{ site.baseurl }}/python-microsoft-learn) - Progress in learning Python through Microsoft Learn's Python modules.
+* [Unity 2D and C#]({{ site.baseurl }}/codesamples/unity2dc#/) - Sample repository of C# for a 2D game developed in Unity.
+* [Python](https://github.com/spacemoss/spacemoss.github.io/tree/main/codesamples/python-microsoft-learn) - Progress in learning Python through Microsoft Learn's Python modules.
 
 ### Current Web Projects
 
@@ -12,7 +12,7 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Book Cover Designs
 
-* [_1984_ by George Orwell]({{ site.baseurl }}/images/bookcovers/1984_-_George_Orwell.png) - A mockup design of the literary classic.
+* [_1984_ by George Orwell]({{ site.baseurl }}/images/bookcovers/1984 - George Orwell.png) - A mockup design of the literary classic.
 * [Sacagawea Biography]({{ site.baseurl }}/images/bookcovers/SacagaweaCover.jpg) - Designed for a Book Publishing course at PSU. This was based on a student concept for a biography on Sacagawea.
 * [Whale Memoir]({{ site.baseurl }}/images/bookcovers/WhaleCover.jpg) - For the same Book Publishing class, this book was a student concept for a memoir about witnessing a beached whale event on the Oregon coast.
 
