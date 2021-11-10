@@ -34,8 +34,8 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 * [_Portland Review_ Redesign Mockup]({{ site.baseurl }}/websites/prmock/PRMockup.png) - This mockup was for a planned 2015 redesign. _Portland Review_ is a literary journal run by Portland State University students in the Creative Writing MFA and Book Publishing Program.
 * [_Portland Review_ 2013 - 2015 on Archive.org](https://web.archive.org/web/20160109185843/http://portlandreview.org/) - My first complete overhaul of the _Portland Review_ website involved switching to WordPress, designing a custom template, and working with PHP and MySQL to do specialized excerpts on the front page.
 * [_Quarter After Eight_ 2012 - 2013 on Archive.org](https://web.archive.org/web/20130526152815/http://www.quarteraftereight.org/index.html) - This graduate student journal from Ohio University's MA and PhD creative writing programs needed a revamped design that matched a lighter tone and direction while adhering to donor requirements.
-* [_Aquaduck_]({{ site.baseurl }}/websites/aquaduck/) - A literary journal I co-founded with friends during my undergraduate studies at Miami University in 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/aquaduck/)
-* [Writers Bloc]( {{ site.baseurl }}/websites/writersbloc/) - A workshop and writing group, which I was also part of during my time at MU in 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/writersbloc/)
+* [_Aquaduck_]({{ site.baseurl }}/websites/aquaduck/) - A literary journal I co-founded with friends during my undergraduate studies at Miami University in 2008 - 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/aquaduck/)
+* [Writers Bloc]( {{ site.baseurl }}/websites/writersbloc/) - A workshop and writing group, which I was also part of during my time at MU in 2008 - 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/writersbloc/)
 
 ### Freelance Editorial Work
 
