@@ -16,6 +16,10 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 * [Sacagawea Biography]({{ site.baseurl }}/images/bookcovers/SacagaweaCover.jpg) - Designed for a Book Publishing course at PSU. This was based on a student concept for a biography on Sacagawea. Made in Photoshop.
 * [Whale Memoir]({{ site.baseurl }}/images/bookcovers/WhaleCover.jpg) - For the same Book Publishing class, this book was a student concept for a memoir about witnessing a beached whale event on the Oregon coast. Made in Photoshop.
 
+### Book Marketing
+
+* [Press Release for _Benchere in Wonderland_]({{ site.baseurl }}/images/graphics/bookmarketing/Dannemiller-BencherePressRelease.pdf) - A press release for _Benchere in Wonderland_ by Steven Gillis as part of a Book Marketing course at PSU's Book Publishing Program.
+
 ### Interior Designs
 
 * [_Portland Review_ Spring 2015 Issue](https://github.com/spacemoss/spacemoss.github.io/tree/main/interiordesigns/prspring2015/) - Sample pages from interior design of _Portland Review_'s Spring 2015 issue. Designed with InDesign.
