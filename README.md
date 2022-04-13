@@ -5,10 +5,22 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 * [Unity 2D and C#](https://github.com/spacemoss/spacemoss.github.io/tree/main/codesamples/unity2dc%23) - Sample repository of C# for a 2D game developed in Unity.
 * [Python](https://github.com/spacemoss/spacemoss.github.io/tree/main/codesamples/python-microsoft-learn) - Progress in learning Python through Microsoft Learn's Python modules.
 
+### Published Writing
+
+* ["Best Forgotten Monsters"](http://thegravityofthething.com/best-forgotten-monsters-alex-dannemiller/) - Short fiction piece with a focus on defamiarilization of narrative and horror tropes. Published on _The Gravity of the Thing_ in 2022.__
+* ["Dual Solitude"](http://www.propellermag.com/Sept2016/BrooksDaltonDannemillerSept16.html) - Interview with Lily Brooks-Dalton on her novel _Good Morning, Midnight_ for Propeller Mag.
+* ["Can't Look Away"](http://portlandreview.org/review-of-kevin-sampsells-this-is-between-us/) - Book review of Kevin Sampsell's _This is Between Us_ for _Portland Review_.
+* ["That Sweetness"](http://www.literaryorphans.org/playdb/sweetness-alex-dannemiller/) - Flash fiction published on Literary Orphans.
+
 ### Current Web Projects
 
 * [Literary Portland](https://literaryportland.org) - A resource for the literary community in Portland, OR.
 * [Old Pal](https://oldpalmag.com) - An online literary journal of poetry, prose, and art based in Portland, OR.
+
+### Freelance Editorial Work
+
+* _EmpoWord: A Student-Centered Anthology & Handbook for College Writers_ - Wrote and edited sections of this etextbook for accessibility and ease of learning complex rhetorical and writing concepts. The textbook is freely accessible through [PDXScholar](https://pdxscholar.library.pdx.edu/pdxopen/20/).
+* Untitled Fiction Manuscripts - Conceptual and style editorial consultation on two untitled fiction manuscripts for local writers.
 
 ### Book Cover Designs
 
@@ -40,14 +52,3 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 * [_Quarter After Eight_ 2012 - 2013 on Archive.org](https://web.archive.org/web/20130526152815/http://www.quarteraftereight.org/index.html) - This graduate student journal from Ohio University's MA and PhD creative writing programs needed a revamped design that matched a lighter tone and direction while adhering to donor requirements.
 * [_Aquaduck_]({{ site.baseurl }}/websites/aquaduck/) - A literary journal I co-founded with friends during my undergraduate studies at Miami University in 2008 - 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/aquaduck/)
 * [Writers Bloc]( {{ site.baseurl }}/websites/writersbloc/) - A workshop and writing group, which I was also part of during my time at MU in 2008 - 2009. [Repository view.](https://github.com/spacemoss/spacemoss.github.io/tree/main/websites/writersbloc/)
-
-### Freelance Editorial Work
-
-* _EmpoWord: A Student-Centered Anthology & Handbook for College Writers_ - Wrote and edited sections of this etextbook for accessibility and ease of learning complex rhetorical and writing concepts. The textbook is freely accessible through [PDXScholar](https://pdxscholar.library.pdx.edu/pdxopen/20/).
-* Untitled Fiction Manuscripts - Conceptual and style editorial consultation on two untitled fiction manuscripts for local writers.
-
-### Published Work
-
-* ["Dual Solitude"](http://www.propellermag.com/Sept2016/BrooksDaltonDannemillerSept16.html) - Interview with Lily Brooks-Dalton on her novel _Good Morning, Midnight_ for Propeller Mag.
-* ["Can't Look Away"](http://portlandreview.org/review-of-kevin-sampsells-this-is-between-us/) - Book review of Kevin Sampsell's _This is Between Us_ for _Portland Review_.
-* ["That Sweetness"](http://www.literaryorphans.org/playdb/sweetness-alex-dannemiller/) - Flash fiction published on Literary Orphans.
