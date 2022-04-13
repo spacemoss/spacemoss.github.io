@@ -7,7 +7,7 @@ See the [About]({{ site.baseurl }}/about) page for a bio and background.
 
 ### Published Writing
 
-* ["Best Forgotten Monsters"](http://thegravityofthething.com/best-forgotten-monsters-alex-dannemiller/) - Short fiction piece with a focus on defamiarilization of narrative and horror tropes. Published on _The Gravity of the Thing_ in 2022.__
+* ["Best Forgotten Monsters"](http://thegravityofthething.com/best-forgotten-monsters-alex-dannemiller/) - Short fiction piece with a focus on defamiarilization of narrative and horror tropes. Published on _The Gravity of the Thing_ in 2022.
 * ["Dual Solitude"](http://www.propellermag.com/Sept2016/BrooksDaltonDannemillerSept16.html) - Interview with Lily Brooks-Dalton on her novel _Good Morning, Midnight_ for Propeller Mag.
 * ["Can't Look Away"](http://portlandreview.org/review-of-kevin-sampsells-this-is-between-us/) - Book review of Kevin Sampsell's _This is Between Us_ for _Portland Review_.
 * ["That Sweetness"](http://www.literaryorphans.org/playdb/sweetness-alex-dannemiller/) - Flash fiction published on Literary Orphans.
